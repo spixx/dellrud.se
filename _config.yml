@@ -1,16 +1,13 @@
 # Site settings
 title: Dellrud
-description:
+description: "Just a landing page for my main domain"
 baseurl: "/"
 url: "https://dellrud.se"
 
 # User settings
-username:
-user_description:
-user_title:
+username: Joakim Dellrud
+user_description: I am a IT Technician specializing in everything and anything FOSS.
+user_title: DevOps Engineer
 email: contact@dellrud.se
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
-# gplus_username:  lorem_ipsum
 
-exclude: ['package.json', 'src' , 'node_modules']
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
